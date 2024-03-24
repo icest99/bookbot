@@ -1,1 +1,1 @@
-# bookbot
+# BookBot project.
